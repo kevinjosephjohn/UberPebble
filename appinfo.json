@@ -1,0 +1,32 @@
+{
+  "appKeys": {
+   "0": 0,
+   "1": 1,
+   "2": 2,
+   "3": 3
+   },
+   "uuid": "##################",
+   "shortName": "Uber",
+   "longName": "Uber",
+   "companyName": "Anoram",
+   "versionCode": 1,
+   "versionLabel": "1.1",
+   "watchapp": {
+    "watchface": false
+    },
+    "resources": {
+      "media": [
+      {
+        "type": "png",
+        "name": "SPLASH",
+        "file": "images/splash.png"
+      },
+      {
+        "type": "png",
+        "name": "ICON",
+        "file": "images/menu.png",
+        "menuIcon":true
+      }
+      ]
+    }
+  }
